@@ -3,8 +3,8 @@
 ## Tools:
 
 - Verdaccio
-- Docker
 - npm or yarn
+- Docker?
 
 <br />
 
@@ -51,4 +51,10 @@ htpasswd:
 
 3. Add users, go here https://hostingcanada.org/htpasswd-generator/ and generate credentials, then add this credentials to /path/to/config/verdaccio/htpasswd
 
-## Client site plug in
+## Client site (publish)
+
+-> go to org-lib-sample
+
+## Client site (plug in)
+
+-> go to client-project-sample
