@@ -13,3 +13,6 @@ Also, do not forger to include auto-version update, using next script:
 npm version patch
 # https://docs.npmjs.com/updating-your-published-package-version-number
 ```
+
+Or, you can add registry into config:
+https://docs.npmjs.com/cli/v7/using-npm/registry

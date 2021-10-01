@@ -1,0 +1,17 @@
+{
+	"name": "client-project-sample",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"private": "true",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"@clinetscope/somepackage": "^1.0.1",
+		"lodash": "^4.17.21"
+	}
+}
